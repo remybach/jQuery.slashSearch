@@ -1,6 +1,7 @@
 jQuery Slash Search Plugin
 ==========================
 
+
 About
 -----
 
