@@ -19,3 +19,8 @@ You can pass in any of the following two options as part of an options object as
 
 1. charCode: Use this if you decide you want a character other than '/' to bring focus to your search field.
 2. selector: By default, the plugin will try to find the search field by the HTML5 'search' input type. Failing that, it will try using this jQuery selector (which defaults to '[name="search"]').
+
+License
+-------
+
+MIT License - [http://remybach.mit-license.org/](http://remybach.mit-license.org/ 'Link through to read my License.')
