@@ -11,7 +11,7 @@
  */
 (function($) {
 	var defaults = {
-		charCode:47, // default to '/'
+		charCode:191, // default to '/'
 		selector:'[name="search"]'
 	};
 
