@@ -11,7 +11,7 @@
  */
 (function($) {
 	var defaults = {
-		charCode:191, // default to '/'
+		keyCode:191, // default to '/'
 		selector:'[name="search"]'
 	};
 
@@ -38,7 +38,7 @@
 
 		this.keypress(function(e) {
 			// If the user isn't trying to legitimately type & the key that was pressed matches
-			if ($('input:focus, textarea:focus').length === 0 && e.charCode === defaults.charCode) {
+			if ($('input:focus, textarea:focus').length === 0 && e.keyCode === defaults.keyCode) {
 				_search.focus();
 				return false;
 			}
