@@ -1,7 +1,7 @@
 /*
  *  Title: jQuery Slash Search plugin
  *  Author: Rémy Bach
- *  Version: 1.0
+ *  Version: 1.0.1
  *
  *  Description:
  *  All this plugin does is essentially allow you to bind the '/' key to go to the first search box on your page.

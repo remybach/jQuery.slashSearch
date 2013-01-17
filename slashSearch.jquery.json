@@ -1,0 +1,24 @@
+{
+	"name": "slashSearch",
+	"version": "1.0.1",
+	"title": "jQuery Slash Search",
+	"author": {
+		"name": "Rémy Bach",
+		"url": "http://remy.bach.me.uk"
+	},
+	"licenses": [{
+		"type": "MIT",
+		"url": "http://remybach.mit-license.org/"
+	}],
+	"dependencies": {
+		"jquery": ">=1.5"
+	},
+	"description": "Give focus to the search field by typing the '/' (forward-slash) key.",
+	"keywords": [
+		"search",
+		"shortcut"
+	],
+	"homepage": "https://github.com/remybach/jQuery.slashSearch",
+	"docs": "https://github.com/remybach/jQuery.slashSearch",
+	"bugs": "https://github.com/remybach/jQuery.slashSearch/issues"
+}
