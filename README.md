@@ -12,7 +12,7 @@ Usage
 
 All you need to do is include Slash Search after jQuery and then include the following:
 
-`jQuery(function($)) {
+`jQuery(function($) {
 	$(document).slashSearch();
 });`
 
